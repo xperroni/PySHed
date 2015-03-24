@@ -64,7 +64,7 @@ Using the `pyshed` module makes possible to write Python scripts that seamlessly
     if __name__ == '__main__':
         main()
 
-See other examples in the code base.
+See other examples in the [code base](https://github.com/xperroni/PySHed/tree/master/Code).
 
 Build & Install
 ---------------
@@ -85,5 +85,5 @@ Initial revision.
 TO DO
 -----
 
-* Add more sript samples;
+* Add more script samples;
 * Review code documentation.
